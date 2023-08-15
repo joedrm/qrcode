@@ -1,4 +1,6 @@
 # qrcode
+
+qrcode 修复版，[原库](https://github.com/SiriDx/qrcode)
 A flutter plugin for scanning QR codes. Use AVCaptureSession in iOS and zxing in Android.
 
 ## Usage
